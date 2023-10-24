@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```shell
-   git clone https://github.com/yourusername/Solar-system.THREEjs.git
+   git clone https://github.com/CraZyphr/Solar-system.THREEjs.git
 
 
 1.Open the project directory:
@@ -37,14 +37,8 @@ Three.js - A JavaScript 3D library.
 Contributing
 Contributions are welcome! Feel free to open issues and pull requests to suggest improvements, report bugs, or add new features.
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Acknowledgments
-Solar system data from NASA's Solar System Exploration.
-Textures from TextureHub.
 Contact
-If you have any questions or suggestions, feel free to contact me at [your@email.com].
+If you have any questions or suggestions, feel free to contact me at [niladrihowladar2@gmail.com].
 
 Enjoy exploring the solar system in 3D!
 
