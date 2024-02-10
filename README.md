@@ -7,7 +7,6 @@ This is a 3D Solar System visualization project created using the Three.js JavaS
 - Realistic 3D models of the Sun and planets.
 - Accurate planetary orbits and relative distances.
 - Interactive controls to explore the solar system.
-- Educational information about each celestial body.
 - Beautifully textured and lit environment.
 - Mouse controls for navigation.
 
